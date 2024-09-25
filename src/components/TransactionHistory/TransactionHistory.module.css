@@ -1,0 +1,28 @@
+.table {
+  margin-left: 25px;
+  margin-bottom: 20px;
+  min-width: 460px;
+  border-collapse: collapse;
+}
+
+.th {
+  color: #ffffff;
+  background-color: #2b2b2b;
+  border: 1px solid #000000;
+}
+
+.element {
+  font-weight: 500;
+  padding-left: 12%;
+  border: 1px solid #000000;
+}
+
+.td {
+  font-weight: 500;
+  text-align: center;
+  border: 1px solid #000000;
+}
+
+.tr:nth-child(2n) {
+  background-color: #bdbdbd;
+}

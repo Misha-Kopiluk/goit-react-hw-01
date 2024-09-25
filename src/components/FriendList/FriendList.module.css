@@ -1,0 +1,7 @@
+.activity {
+  display: flex;
+  justify-content: space-between;
+  min-width: 460px;
+  margin-left: 25px;
+  margin-bottom: 20px;
+}
